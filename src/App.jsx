@@ -57,7 +57,7 @@ function App() {
       {/* Hero */}
       <section className="hero" id="home">
         <div className="hero-content">
-          <h1>Welcome to Food Center</h1>
+          <h1>Welcome to Food Center 🥪</h1>
 
           <p>
             Fresh, delicious and affordable food for everyone.
